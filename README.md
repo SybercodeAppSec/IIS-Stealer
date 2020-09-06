@@ -7,7 +7,8 @@
 ```
 ./srealer.ps1 ZIPLENEN-DOSYALARIN-KOPYALANACAGI-DIZIN ZIP-DOSYA_ADININ-ONADI
 
-./stealer.ps1 \\LOCAL\paylasim prefix[optional]```
+./stealer.ps1 \\LOCAL\paylasim prefix[optional]
+```
 
 ## Yapılacaklar Listesi
 
