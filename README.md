@@ -1,10 +1,13 @@
 # IIS-Stealer
 
-Çalıştığı sistemde bulunan IIS içindeki tüm uygulamaları klasörlerini zipleyip dışarıya atan kod parçacığı.
+Çalıştığı sistemde bulunan IIS içindeki tüm uygulamaların klasörlerini zipleyip dışarıya atan kod parçacığı.
 
 ## Kullanımı
 
-```./stealer.ps1 \\LOCAL\paylasim prefix[optional]```
+```
+./srealer.ps1 ZIPLENEN-DOSYALARIN-KOPYALANACAGI-DIZIN ZIP-DOSYA_ADININ-ONADI
+
+./stealer.ps1 \\LOCAL\paylasim prefix[optional]```
 
 ## Yapılacaklar Listesi
 
